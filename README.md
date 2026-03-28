@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/icons/TP.png" alt="TonPulse" width="120" height="120" style="border-radius: 24px;" />
+  <img src="frontend/public/icons/Tp.png" alt="TonPulse" width="120" height="120" style="border-radius: 24px;" />
   <h1>TonPulse</h1>
   <p><strong>AI-Powered DeFi Trading Terminal for Telegram</strong></p>
   <p>
